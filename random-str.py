@@ -1,5 +1,4 @@
-import string
-import random
+import string, random
 print()
 length = int(input("Length >>>  "))
 rows = int(input("Rows >>>  "))
