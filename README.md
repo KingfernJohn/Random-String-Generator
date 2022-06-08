@@ -4,4 +4,4 @@ Windows:
 - run - 'run.bat'
 
 Linux:
-- python random-str.py
+- sudo python random-str.py
